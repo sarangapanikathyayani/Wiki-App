@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+}
+/*body{
+    width: 50%;
+    border:1px solid black;
+    margin-left: 350px;
+}*/
+body{
+    max-width: 600px;
+    width:100%;
+    margin:auto;
+}
+
+header{
+   border-bottom: 1px solid gray;
+   padding :10px;
+}
+nav{
+padding:10px;
+border-bottom:1px solid gray;
+}
+nav span{
+    border-bottom :1px solid blue;
+
+}
+.image-container
+{
+    float:right;
+    margin:10px;
+    /*margin is for outer space*/
+}
+.content
+{
+    padding:10px;
+    /*padding for inner space*/
+}
+.content .para-2{
+   margin-top:16px; 
+}
+.footer
+{
+    margin-bottom:170px;
+}
